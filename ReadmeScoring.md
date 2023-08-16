@@ -3,3 +3,5 @@
 Este proyecto consiste en preparar un informe para la división de préstamos de un banco. Debemos averiguar si el estado civil y el número de hijos de un cliente tienen un impacto en el incumplimiento de pago de un préstamo. El banco ya tiene algunos datos sobre la solvencia crediticia de los clientes.
 
 Este informe se tendrá en cuenta al crear una **puntuación de crédito** para un cliente potencial. La **puntuación de crédito** se utiliza para evaluar la capacidad de un prestatario potencial para pagar su préstamo.
+
+Este proyecto fue realizado usando jupyter notebook y python. Se hizó la carga de los datos usando un archivo ".csv", posteriormente se realizó la limpieza de datos y el reemplazo de valores faltantes. Realizamos distintas agrupaciones en base a la edad, el próposito del préstamo, el nivel de ingreso y la cantidad de hijos, para poder observar como influye cada una de ellos en el pago a tiempo de un préstamo.

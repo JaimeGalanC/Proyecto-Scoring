@@ -4,4 +4,8 @@ Este proyecto consiste en preparar un informe para la división de préstamos de
 
 Este informe se tendrá en cuenta al crear una **puntuación de crédito** para un cliente potencial. La **puntuación de crédito** se utiliza para evaluar la capacidad de un prestatario potencial para pagar su préstamo.
 
-Este proyecto fue realizado usando jupyter notebook y python. Se hizó la carga de los datos usando un archivo ".csv", posteriormente se realizó la limpieza de datos y el reemplazo de valores faltantes. Realizamos distintas agrupaciones en base a la edad, el próposito del préstamo, el nivel de ingreso y la cantidad de hijos, para poder observar como influye cada una de ellos en el pago a tiempo de un préstamo.
+1. Se hizó la carga de los datos usando un archivo ".csv"
+2. Posteriormente se realizó la limpieza de datos y el reemplazo de valores faltantes
+3. Realizamos distintas agrupaciones en base a la edad, el próposito del préstamo, el nivel de ingreso y la cantidad de hijos, para poder observar como influye cada una de ellos en el pago a tiempo de un préstamo
+
+Este proyecto fue realizado usando jupyter notebook y python.

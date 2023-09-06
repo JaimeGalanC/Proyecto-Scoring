@@ -8,4 +8,6 @@ Este informe se tendrá en cuenta al crear una **puntuación de crédito** para 
 2. Posteriormente se realizó la limpieza de datos y el reemplazo de valores faltantes
 3. Realizamos distintas agrupaciones en base a la edad, el próposito del préstamo, el nivel de ingreso y la cantidad de hijos, para poder observar como influye cada una de ellos en el pago a tiempo de un préstamo
 
-Este proyecto fue realizado usando jupyter notebook y python.
+Se hizó la carga de los datos usando archivos ".csv". Este proyecto fue realizado usando:
+- [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+- [![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=101010)]()
